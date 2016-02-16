@@ -1,1 +1,3 @@
-This is a README
+To view the main demo, run tud/www/FullScreenEvolution.html
+
+Use the "play" button at the top left of the screen to start the simulation. The creatures will go through evolution on their own after a certain period of time, but you can press the "evolve" button to force an evolution step instantly. Finally, use the third button at the top to control the speed of simulation.
